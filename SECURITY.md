@@ -5,4 +5,4 @@ Our security policy can be found at [https://www.elastic.co/community/security](
 
 ## Reporting a Vulnerability
 
-Please send security vulnerability reports to security@elastic.co.
+Please send security vulnerability reports to our [public bug bounty program](https://github.com/elastic/.github/) or to security@elastic.co.
