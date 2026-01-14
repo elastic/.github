@@ -1,8 +1,8 @@
-# Security Policy
+# Security Policy 
 
-Thanks for your interest in the security of our products.
-Our security policy can be found at [https://elastic.co/product-security](https://elastic.co/product-security).
+Thanks for your interest in the security of our products. 
 
-## Reporting a Vulnerability
+Our official security policy and vulnerability reporting instructions can be found at: https://www.elastic.co/product-security  
 
-Please send security vulnerability reports to our [public bug bounty program](https://hackerone.com/elastic) or to security@elastic.co.
+_Please do not report security vulnerabilities via GitHub Issues._
+
